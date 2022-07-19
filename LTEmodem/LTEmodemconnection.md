@@ -8,6 +8,8 @@ https://opensource.com/article/17/7/nodered-raspberrypi-hardware
 
 https://www.makeuseof.com/raspberry-pi-set-static-ip/
 
+https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units
+
 ### Hardware
 
 LTE модем – Pantech UML 290 (Verizon)
